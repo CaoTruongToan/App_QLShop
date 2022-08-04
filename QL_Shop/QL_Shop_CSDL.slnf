@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\App_QL_CSDL\\App_QL_CSDL.sln",
+    "projects": [
+      "App_QL_CSDL.csproj"
+    ]
+  }
+}
